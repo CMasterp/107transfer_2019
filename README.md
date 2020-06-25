@@ -1,7 +1,7 @@
 # 107transfer - Polynomial multiplications
 
 - **Binary name:** 107transfer
-- **Repository name:** 107transfer
+- **Repository name:** 107transfer_2019
 - **Repository rigths:** ramassage-tek
 - **Language:** everything working on "the dump"
 - **Choosed language:** C
@@ -49,7 +49,7 @@ $ make
 ## Usage
 
 ```
-~/B-MAT-100> ./107transfer [num den]*
+~/B-MAT-200> ./107transfer [num den]*
 ```
 - **num:** polynomial numerator defined by its coefficients
 - **den:** polynomial denominator defined by its coefficients
